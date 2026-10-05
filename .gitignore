@@ -1,0 +1,35 @@
+# Build output
+build/
+cmake-build-*/
+out/
+
+# Visual Studio generated files
+.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.user
+*.suo
+*.vcxproj.user
+
+# Compiled binaries / object files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# Generated OpenGL/debug output
+shadowMap.bmp
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+compile_commands.json

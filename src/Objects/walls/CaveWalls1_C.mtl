@@ -1,0 +1,14 @@
+# Created with Anim8or 1.00
+# Object "CaveWalls1_C":
+
+newmtl CaveWalls1
+Ka 0.122 0.122 0.122
+Kd 0.373 0.373 0.373
+Ks 0.2 0.2 0.2
+Ns 752.6
+map_Kd CaveWalls1_Base_BaseColor.png
+norm CaveWalls1_Base_Normal.png
+map_Pm CaveWalls1_Base_Metalness.png
+map_Pr CaveWalls1_Base_Roughness.png
+map_Po CaveWalls1_base_AO.png
+

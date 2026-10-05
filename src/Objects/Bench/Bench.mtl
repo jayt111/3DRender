@@ -1,0 +1,8 @@
+# Blender MTL File: 'Temp.blend'
+# Material Count: 1
+
+newmtl Picnic_Bench_Material
+map_Kd Picnic_Bench_UV_Map.png
+norm Picnic_Bench_Normal_Map_Map.png
+#map_Pr Roughness.png
+Ka 0.05 0.05 0.05

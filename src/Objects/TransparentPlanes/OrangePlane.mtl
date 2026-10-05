@@ -1,0 +1,5 @@
+# Blender 4.4.1 MTL File: 'TransPlane.blend'
+# www.blender.org
+
+newmtl plane_mat
+map_Kd orange.png

@@ -1,0 +1,10 @@
+# Blender 4.4.1 MTL File: 'slab.blend'
+# www.blender.org
+
+newmtl Concrete
+map_Kd clean-concrete_albedo.png
+map_Pm clean-concrete_metallic.png
+norm clean-concrete_normal-ogl.png
+map_Pr clean-concrete_roughness.png
+map_Po clean-concrete_ao.png
+
